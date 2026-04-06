@@ -1,0 +1,1684 @@
+{
+  "vak": "Latijn",
+  "hoofdstuk": "Grammatica les 16",
+  "scope": "Aanwijzende voornaamwoorden (hic, ille, iste, is/ea/id), woordenlijst H16, bijwoorden groep 1 en 2",
+  "totaal_vragen": 125,
+  "leerdoelen": [
+    {
+      "leerdoel_id": 1,
+      "leerdoel_titel": "Vocabulaire H16",
+      "paragraaf": "16",
+      "uitleg_tekst": "De woordenlijst van hoofdstuk 16 bevat: exemplum (voorbeeld), vincere/vici (overwinnen), interficere/interfeci (doden), tradere/tradidi (overhandigen/overleveren), abesse (afwezig zijn), tantus (zo groot). Structuurwoorden: nisi (als niet), tuus (jouw), -que (en, achter het woord). Let op de stamtijden bij de werkwoorden!",
+      "subdoelen": [
+        {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "Latijn → Nederlands (meerkeuze)",
+          "uitleg_tekst": "Ken de Nederlandse betekenis van elk Latijns woord uit de woordenlijst van H16.",
+          "vragen": [
+            {
+              "id": 1,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'exemplum'?",
+              "opties": [
+                "verhaal",
+                "voorbeeld",
+                "opsomming",
+                "uitzondering"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Exemplum' betekent 'voorbeeld'. Denk aan het Engelse 'example'. De andere opties: 'verhaal' zou 'fabula' of 'narratio' zijn, 'opsomming' zou 'enumeratio' zijn, en 'uitzondering' zou 'exceptio' zijn."
+            },
+            {
+              "id": 2,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'vincere'?",
+              "opties": [
+                "overhandigen",
+                "overwinnen",
+                "binden",
+                "doden"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Vincere' betekent 'overwinnen' (stamtijden: vincere, vici). De andere opties: 'binden' is 'vincire' (let op het verschil: vincere vs vincire!), 'doden' is 'interficere', en 'overhandigen' is 'tradere'."
+            },
+            {
+              "id": 3,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'interficere'?",
+              "opties": [
+                "doden",
+                "bemiddelen",
+                "onderbreken",
+                "tussenwerpen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Interficere' betekent 'doden' (stamtijden: interficere, interfeci). De andere opties: 'tussenwerpen' is de letterlijke vertaling van inter+facere maar niet de juiste betekenis, 'onderbreken' zou 'interrumpere' zijn, en 'bemiddelen' zou 'intercedere' zijn."
+            },
+            {
+              "id": 4,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'tradere'?",
+              "opties": [
+                "treuren",
+                "vertrouwen",
+                "overhandigen",
+                "verraden"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Tradere' betekent 'overhandigen' of 'overleveren' (stamtijden: tradere, tradidi). De andere opties: 'verraden' zou 'prodere' zijn, 'treuren' zou 'dolere' of 'lugere' zijn, en 'vertrouwen' zou 'confidere' zijn."
+            },
+            {
+              "id": 5,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'abesse'?",
+              "opties": [
+                "afwezig zijn",
+                "weggaan",
+                "aanwezig zijn",
+                "opeten"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Abesse' betekent 'afwezig zijn' (ab + esse = weg + zijn). De andere opties: 'aanwezig zijn' is juist het tegenovergestelde ('adesse'), 'weggaan' zou 'abire' zijn, en 'beschikbaar zijn' heeft geen directe Latijnse verwantschap."
+            },
+            {
+              "id": 6,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'tantus'?",
+              "opties": [
+                "zo snel",
+                "zo lang",
+                "zo weinig",
+                "zo groot"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Tantus' betekent 'zo groot'. De andere opties: 'zo weinig' zou 'tam paucus' zijn, 'zo lang' zou 'tam longus' zijn, en 'zo snel' zou 'tam celer' zijn."
+            },
+            {
+              "id": 7,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent '-que' achter een woord?",
+              "opties": [
+                "want",
+                "of",
+                "maar",
+                "en"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'-que' is een nevenschikkend voegwoord dat 'en' betekent, achter het tweede woord geplakt (bijv. 'senatus populusque'). De andere opties: 'of' zou 'aut' of 'vel' zijn, 'maar' zou 'sed' zijn, en 'want' zou 'nam' of 'enim' zijn."
+            },
+            {
+              "id": 8,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent 'nisi'?",
+              "opties": [
+                "hoewel",
+                "opdat",
+                "als niet",
+                "omdat"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Nisi' is een voegwoord van voorwaarde: 'als niet' of 'tenzij'. De andere opties: 'hoewel' zou 'quamquam' zijn, 'opdat' zou 'ut' (+ conjunctivus) zijn, en 'omdat' zou 'quod' of 'quia' zijn."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "Latijn → Nederlands (invullen)",
+          "uitleg_tekst": "Geef zelf de juiste Nederlandse vertaling van Latijnse woorden uit H16.",
+          "vragen": [
+            {
+              "id": 9,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'exemplum'.",
+              "juiste_antwoord": "voorbeeld",
+              "uitleg": "'Exemplum' = voorbeeld."
+            },
+            {
+              "id": 10,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'vincere'.",
+              "juiste_antwoord": "overwinnen",
+              "uitleg": "'Vincere' = overwinnen. Stamtijden: vincere, vici."
+            },
+            {
+              "id": 11,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'interficere'.",
+              "juiste_antwoord": "doden",
+              "uitleg": "'Interficere' = doden. Stamtijden: interficere, interfeci."
+            },
+            {
+              "id": 12,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'tradere'.",
+              "juiste_antwoord": "overhandigen",
+              "uitleg": "'Tradere' = 1. overhandigen, 2. overleveren. Stamtijden: tradere, tradidi."
+            },
+            {
+              "id": 13,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'abesse'.",
+              "juiste_antwoord": "afwezig zijn",
+              "uitleg": "'Abesse' = afwezig zijn. Samengesteld uit 'ab' (weg) + 'esse' (zijn)."
+            },
+            {
+              "id": 14,
+              "type": "invullen",
+              "vraag": "Vertaal het Latijnse woord 'tantus'.",
+              "juiste_antwoord": "zo groot",
+              "uitleg": "'Tantus' = zo groot."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Stamtijden",
+          "uitleg_tekst": "Ken de stamtijden van de werkwoorden uit H16: vincere/vici, interficere/interfeci, tradere/tradidi.",
+          "vragen": [
+            {
+              "id": 15,
+              "type": "multiple_choice",
+              "vraag": "Wat is de perfectumvorm (1e persoon enkelvoud) van 'vincere'?",
+              "opties": [
+                "vincui",
+                "vincidi",
+                "vinxi",
+                "vici"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De perfectumvorm van 'vincere' is 'vici' — de stam verandert sterk. De andere opties ('vincui', 'vinxi', 'vincidi') zijn geen bestaande Latijnse vormen. Onthoud: veni, vidi, vici!"
+            },
+            {
+              "id": 16,
+              "type": "invullen",
+              "vraag": "Geef de perfectumvorm (1e persoon enkelvoud) van 'interficere'.",
+              "juiste_antwoord": "interfeci",
+              "uitleg": "De stamtijden zijn: interficere, interfeci. Let op: het voorvoegsel 'inter-' blijft staan, de stam verandert van 'fic-' naar 'fec-'."
+            },
+            {
+              "id": 17,
+              "type": "invullen",
+              "vraag": "Geef de perfectumvorm (1e persoon enkelvoud) van 'tradere'.",
+              "juiste_antwoord": "tradidi",
+              "uitleg": "De stamtijden zijn: tradere, tradidi. Dit is een verdubbeling (reduplicatie) van de stam."
+            },
+            {
+              "id": 18,
+              "type": "multiple_choice",
+              "vraag": "Welke stamtijden horen bij 'tradere'?",
+              "opties": [
+                "tradere, tradui",
+                "tradere, trasi",
+                "tradere, traxi",
+                "tradere, tradidi"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De stamtijden zijn tradere, tradidi — met reduplicatie (verdubbeling) van de stam. De andere opties: 'tradere, traxi' lijkt op 'trahere/traxi' (trekken), 'tradere, tradui' en 'tradere, trasi' zijn geen bestaande vormen."
+            },
+            {
+              "id": 19,
+              "type": "multiple_choice",
+              "vraag": "Welke stamtijden horen bij 'vincere'?",
+              "opties": [
+                "vincere, vici",
+                "vincere, vinxi",
+                "vincere, vincui",
+                "vincere, vincidi"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De stamtijden zijn vincere, vici. De andere opties ('vincere, vincidi', 'vincere, vinxi', 'vincere, vincui') zijn geen bestaande Latijnse stamtijdenparen."
+            },
+            {
+              "id": 20,
+              "type": "multiple_choice",
+              "vraag": "Bij welk werkwoord hoort de perfectumvorm 'interfeci'?",
+              "opties": [
+                "interferre",
+                "interire",
+                "interficere",
+                "intervenire"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Interfeci' hoort bij 'interficere' (doden) — de stam verandert van 'fic-' naar 'fec-'. De andere opties: 'interire' betekent 'te gronde gaan', 'interferre' zou 'tussendragen' betekenen, en 'intervenire' betekent 'tussenbeide komen'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 2,
+      "leerdoel_titel": "Aanwijzende voornaamwoorden: betekenis & gebruik",
+      "paragraaf": "16.1",
+      "uitleg_tekst": "Het Latijn heeft vier aanwijzende voornaamwoorden: hic/haec/hoc (deze/dit — dichtbij de spreker, 'h' van hier), ille/illa/illud (die/dat — ver weg, neutraal), iste/ista/istud (die/dat — bij de aangesprokene, vaak negatief), is/ea/id (die/deze/dit/dat — verwijzend, ook als persoonlijk voornaamwoord hij/zij). Ze kunnen zelfstandig én bijvoeglijk gebruikt worden.",
+      "subdoelen": [
+        {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "hic / ille / iste / is: onderscheid",
+          "uitleg_tekst": "hic = dichtbij spreker ('h' van hier), ille = ver weg (neutraal), iste = bij aangesprokene (vaak negatief), is = verwijzend (ook hij/zij).",
+          "vragen": [
+            {
+              "id": 21,
+              "type": "multiple_choice",
+              "vraag": "Welk aanwijzend voornaamwoord gebruik je voor iets dat dichtbij de spreker is?",
+              "opties": [
+                "ille",
+                "hic",
+                "iste",
+                "is"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Hic' wordt gebruikt voor iets dichtbij de spreker (de 'h' van 'hier'). De andere opties: 'ille' is voor iets ver weg, 'iste' is voor iets bij de aangesprokene (vaak negatief), en 'is' is verwijzend naar iets dat eerder genoemd is."
+            },
+            {
+              "id": 22,
+              "type": "multiple_choice",
+              "vraag": "Welk aanwijzend voornaamwoord heeft vaak een negatieve bijklank?",
+              "opties": [
+                "ille",
+                "iste",
+                "is",
+                "hic"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Iste' duidt vaak op een negatieve waardering ('die akelige...'). De andere opties: 'hic' (dichtbij, neutraal), 'ille' (ver weg, neutraal), en 'is' (verwijzend, neutraal) hebben geen negatieve bijklank."
+            },
+            {
+              "id": 23,
+              "type": "multiple_choice",
+              "vraag": "Welk aanwijzend voornaamwoord verwijst neutraal naar iets dat ver weg is?",
+              "opties": [
+                "is",
+                "hic",
+                "iste",
+                "ille"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Ille' verwijst neutraal naar iets ver weg. De andere opties: 'hic' is voor dichtbij de spreker, 'is' is verwijzend/terugwijzend, en 'iste' is bij de aangesprokene met vaak negatieve lading."
+            },
+            {
+              "id": 24,
+              "type": "multiple_choice",
+              "vraag": "Welk aanwijzend voornaamwoord verwijst naar iets dat eerder in de tekst is genoemd en kan ook als persoonlijk voornaamwoord vertaald worden?",
+              "opties": [
+                "hic",
+                "iste",
+                "is",
+                "ille"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Is/ea/id' verwijst naar iets eerder genoemd en kan als persoonlijk voornaamwoord ('hij/zij') vertaald worden. De andere opties: 'hic' is alleen aanwijzend (dichtbij), 'iste' is alleen aanwijzend (bij aangesprokene, negatief), en 'ille' kan soms ook persoonlijk zijn maar is niet de primaire keuze."
+            },
+            {
+              "id": 25,
+              "type": "multiple_choice",
+              "vraag": "Waar verwijst 'iste' naar?",
+              "opties": [
+                "iets dichtbij de spreker",
+                "iets dat eerder is genoemd",
+                "iets bij de aangesproken persoon",
+                "iets ver weg"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Iste' verwijst naar iets bij de aangesproken persoon ('jij'). De andere opties: 'dichtbij de spreker' past bij 'hic', 'ver weg' past bij 'ille', en 'eerder genoemd' past bij 'is'."
+            },
+            {
+              "id": 26,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen 'ille' en 'iste'?",
+              "opties": [
+                "ille is neutraal, iste heeft vaak een negatieve lading",
+                "ille is mannelijk, iste is vrouwelijk",
+                "ille is enkelvoud, iste is meervoud",
+                "ille is dichtbij, iste is ver weg"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het kernverschil: 'ille' is neutraal (ver weg), 'iste' heeft vaak een negatieve lading (bij aangesprokene). De andere opties kloppen niet: beide hebben enkelvoud én meervoud, beide hebben drie geslachten, en 'hic' (niet ille) is het voornaamwoord voor dichtbij."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Wanneer welk voornaamwoord?",
+          "uitleg_tekst": "Kies het juiste aanwijzend voornaamwoord op basis van de situatie: hic (bij spreker), ille (ver weg, neutraal), iste (bij aangesprokene, negatief), is (verwijzend).",
+          "vragen": [
+            {
+              "id": 27,
+              "type": "multiple_choice",
+              "vraag": "Een Romein wijst naar een zwaard in zijn eigen hand. Welk voornaamwoord past het best?",
+              "opties": [
+                "iste",
+                "ille",
+                "hic",
+                "is"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Hic' past hier: het zwaard is dichtbij de spreker zelf ('h' van 'hier'). De andere opties: 'iste' zou passen als het bij de aangesprokene was, 'ille' als het ver weg was, en 'is' als het eerder in een tekst was genoemd."
+            },
+            {
+              "id": 28,
+              "type": "multiple_choice",
+              "vraag": "Een Romein spreekt met afkeuring over het boek van de persoon tegenover hem. Welk voornaamwoord past?",
+              "opties": [
+                "iste",
+                "hic",
+                "is",
+                "ille"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Iste' past hier: het boek is bij de aangesproken persoon, en er is afkeuring (negatieve lading). De andere opties: 'hic' is voor dichtbij de spreker, 'ille' is neutraal (zonder afkeuring), en 'is' is voor terugverwijzing in tekst."
+            },
+            {
+              "id": 29,
+              "type": "multiple_choice",
+              "vraag": "In een tekst verwijst de schrijver terug naar een eerder genoemde koning. Welk voornaamwoord is het meest geschikt?",
+              "opties": [
+                "is",
+                "iste",
+                "ille",
+                "hic"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Is' wordt gebruikt om terug te verwijzen naar iets eerder in de tekst. De andere opties: 'hic' is voor dichtbij de spreker, 'iste' is bij de aangesprokene (negatief), en 'ille' is voor ver weg (niet terugverwijzend)."
+            },
+            {
+              "id": 30,
+              "type": "multiple_choice",
+              "vraag": "Een redenaar wijst naar een tempel in de verte. Welk voornaamwoord past?",
+              "opties": [
+                "is",
+                "hic",
+                "iste",
+                "ille"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Ille' past hier: de tempel is ver weg, zonder negatieve lading. De andere opties: 'hic' is voor dichtbij, 'iste' is bij de aangesprokene (negatief), en 'is' is voor terugverwijzing in tekst."
+            },
+            {
+              "id": 31,
+              "type": "multiple_choice",
+              "vraag": "De 'h' in 'hic' kun je onthouden als de 'h' van ...",
+              "opties": [
+                "houden",
+                "hem",
+                "hier",
+                "hebben"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De 'h' in 'hic' staat voor 'hier': dichtbij de spreker. De andere opties ('hem', 'hebben', 'houden') helpen niet bij het onthouden van de betekenis van hic."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "Structuurwoorden (nisi, tuus, -que)",
+          "uitleg_tekst": "nisi = als niet (voegwoord van voorwaarde), tuus = jouw (bezittelijk voornaamwoord), -que = en (nevenschikkend voegwoord, achter het woord geplakt).",
+          "vragen": [
+            {
+              "id": 32,
+              "type": "multiple_choice",
+              "vraag": "Wat voor soort woord is 'nisi'?",
+              "opties": [
+                "voorzetsel",
+                "aanwijzend voornaamwoord",
+                "voegwoord van voorwaarde",
+                "bijwoord"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Nisi' is een voegwoord van voorwaarde ('als niet'/'tenzij'). De andere opties: een bijwoord geeft informatie over een werkwoord, een voorzetsel staat voor een naamwoord (in, ad, cum...), en een aanwijzend voornaamwoord verwijst naar iets (hic, ille...)."
+            },
+            {
+              "id": 33,
+              "type": "multiple_choice",
+              "vraag": "Wat voor soort woord is 'tuus'?",
+              "opties": [
+                "persoonlijk voornaamwoord",
+                "bezittelijk voornaamwoord",
+                "aanwijzend voornaamwoord",
+                "betrekkelijk voornaamwoord"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Tuus' is een bezittelijk voornaamwoord ('jouw'). De andere opties: een aanwijzend voornaamwoord is hic/ille/iste/is, een persoonlijk voornaamwoord is ego/tu/is, en een betrekkelijk voornaamwoord is qui/quae/quod."
+            },
+            {
+              "id": 34,
+              "type": "multiple_choice",
+              "vraag": "Waar wordt '-que' in een Latijnse zin geplaatst?",
+              "opties": [
+                "vóór het eerste woord",
+                "achter het tweede woord",
+                "tussen de twee woorden",
+                "aan het begin van de zin"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'-que' wordt achter het tweede woord geplakt (bijv. 'senatus populusque'). De andere opties: het staat niet vóór het eerste woord, niet tussen de woorden, en niet aan het begin van de zin — het is altijd vastgeplakt aan het woord dat volgt."
+            },
+            {
+              "id": 35,
+              "type": "multiple_choice",
+              "vraag": "Hoe vertaal je 'senatus populusque'?",
+              "opties": [
+                "de senaat maar het volk",
+                "de senaat zonder het volk",
+                "de senaat en het volk",
+                "de senaat of het volk"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'-que' betekent 'en'. 'Senatus populusque' = 'de senaat en het volk'. De andere opties: 'of' zou 'aut/vel' vereisen, 'maar' zou 'sed' vereisen, en 'zonder' zou 'sine' vereisen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 3,
+      "leerdoel_titel": "Verbuiging aanwijzende voornaamwoorden",
+      "paragraaf": "16.2",
+      "uitleg_tekst": "De aanwijzende voornaamwoorden hic/haec/hoc, ille/illa/illud, iste/ista/istud en is/ea/id worden verbogen in vijf naamvallen (nom, gen, dat, acc, abl), drie geslachten (m, v, o) en twee getallen (ev, mv). Let op bijzonderheden: de genitivus ev. eindigt op -ius, de datief ev. op -i (bij ille, iste, is). Bij hic zijn gen. ev. = huius en dat. ev. = huic voor alle geslachten.",
+      "subdoelen": [
+        {
+          "subdoel_id": "3.1",
+          "subdoel_titel": "Verbuiging hic, haec, hoc",
+          "uitleg_tekst": "hic/haec/hoc (deze/dit): ev. nom: hic/haec/hoc, gen: huius, dat: huic, acc: hunc/hanc/hoc, abl: hoc/hac/hoc. Mv. nom: hi/hae/haec, gen: horum/harum/horum, dat: his, acc: hos/has/haec, abl: his.",
+          "vragen": [
+            {
+              "id": 36,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitivus singularis van 'hic' (mannelijk)?",
+              "opties": [
+                "hoc",
+                "hunc",
+                "huic",
+                "huius"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'huius' (gen.sg van hic (alle geslachten)). De andere opties: 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic, 'hunc' is acc.sg.m van hic, 'huic' is dat.sg van hic (alle geslachten)."
+            },
+            {
+              "id": 37,
+              "type": "multiple_choice",
+              "vraag": "Wat is de datief singularis van 'hic' (alle geslachten)?",
+              "opties": [
+                "huius",
+                "huic",
+                "hunc",
+                "hoc"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'huic' (dat.sg van hic (alle geslachten)). De andere opties: 'huius' is gen.sg van hic (alle geslachten), 'hunc' is acc.sg.m van hic, 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic."
+            },
+            {
+              "id": 38,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis mannelijk van 'hic'?",
+              "opties": [
+                "hoc",
+                "hanc",
+                "huic",
+                "hunc"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'hunc' (acc.sg.m van hic). De andere opties: 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic, 'hanc' is acc.sg.v van hic, 'huic' is dat.sg van hic (alle geslachten)."
+            },
+            {
+              "id": 39,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis vrouwelijk van 'hic'?",
+              "opties": [
+                "hoc",
+                "hunc",
+                "hanc",
+                "haec"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'hanc' (acc.sg.v van hic). De andere opties: 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic, 'hunc' is acc.sg.m van hic, 'haec' is nom.sg.v (of nom./acc.mv.o) van hic."
+            },
+            {
+              "id": 40,
+              "type": "multiple_choice",
+              "vraag": "Wat is de ablatief singularis vrouwelijk van 'hic'?",
+              "opties": [
+                "hoc",
+                "hanc",
+                "haec",
+                "hac"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'hac' (abl.sg.v van hic). De andere opties: 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic, 'hanc' is acc.sg.v van hic, 'haec' is nom.sg.v (of nom./acc.mv.o) van hic."
+            },
+            {
+              "id": 41,
+              "type": "multiple_choice",
+              "vraag": "Wat is de nominatief meervoud mannelijk van 'hic'?",
+              "opties": [
+                "hi",
+                "hic",
+                "haec",
+                "hae"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het juiste antwoord is 'hi' (nom.mv.m van hic). De andere opties: 'hic' is nom.sg.m van hic, 'haec' is nom.sg.v (of nom./acc.mv.o) van hic, 'hae' is nom.mv.v van hic."
+            },
+            {
+              "id": 42,
+              "type": "multiple_choice",
+              "vraag": "Welke vorm van 'hic' is identiek in de nominatief singularis vrouwelijk én de nominatief/accusatief meervoud onzijdig?",
+              "opties": [
+                "hic",
+                "hae",
+                "hoc",
+                "haec"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'haec' (nom.sg.v (of nom./acc.mv.o) van hic). De andere opties: 'hic' is nom.sg.m van hic, 'hae' is nom.mv.v van hic, 'hoc' is nom./acc.sg.o of abl.sg.m/o van hic."
+            },
+            {
+              "id": 43,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief meervoud mannelijk van 'hic'?",
+              "opties": [
+                "hi",
+                "has",
+                "haec",
+                "hos"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'hos' (acc.mv.m van hic). De andere opties: 'hi' is nom.mv.m van hic, 'has' is acc.mv.v van hic, 'haec' is nom.sg.v (of nom./acc.mv.o) van hic."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.2",
+          "subdoel_titel": "Verbuiging ille, illa, illud",
+          "uitleg_tekst": "ille/illa/illud (die/dat): ev. nom: ille/illa/illud, gen: illius, dat: illi, acc: illum/illam/illud, abl: illo/illa/illo. Mv. nom: illi/illae/illa, gen: illorum/illarum/illorum, dat: illis, acc: illos/illas/illa, abl: illis.",
+          "vragen": [
+            {
+              "id": 44,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitivus singularis van 'ille' (alle geslachten)?",
+              "opties": [
+                "illo",
+                "illum",
+                "illius",
+                "illi"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'illius' (gen.sg van ille (alle geslachten)). De andere opties: 'illo' is abl.sg.m/o van ille, 'illum' is acc.sg.m van ille, 'illi' is dat.sg van ille (alle geslachten) of nom.mv.m."
+            },
+            {
+              "id": 45,
+              "type": "multiple_choice",
+              "vraag": "Wat is de datief singularis van 'ille' (alle geslachten)?",
+              "opties": [
+                "illo",
+                "illum",
+                "illi",
+                "illius"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'illi' (dat.sg van ille (alle geslachten) of nom.mv.m). De andere opties: 'illo' is abl.sg.m/o van ille, 'illum' is acc.sg.m van ille, 'illius' is gen.sg van ille (alle geslachten)."
+            },
+            {
+              "id": 46,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis mannelijk van 'ille'?",
+              "opties": [
+                "illam",
+                "illud",
+                "illo",
+                "illum"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'illum' (acc.sg.m van ille). De andere opties: 'illam' is acc.sg.v van ille, 'illud' is nom./acc.sg.o van ille, 'illo' is abl.sg.m/o van ille."
+            },
+            {
+              "id": 47,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis vrouwelijk van 'ille'?",
+              "opties": [
+                "illa",
+                "illam",
+                "illud",
+                "illius"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'illam' (acc.sg.v van ille). De andere opties: 'illa' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van ille, 'illud' is nom./acc.sg.o van ille, 'illius' is gen.sg van ille (alle geslachten)."
+            },
+            {
+              "id": 48,
+              "type": "multiple_choice",
+              "vraag": "Wat is de ablatief singularis mannelijk van 'ille'?",
+              "opties": [
+                "illis",
+                "illo",
+                "illum",
+                "illi"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'illo' (abl.sg.m/o van ille). De andere opties: 'illis' is dat./abl.mv van ille (alle geslachten), 'illum' is acc.sg.m van ille, 'illi' is dat.sg van ille (alle geslachten) of nom.mv.m."
+            },
+            {
+              "id": 49,
+              "type": "multiple_choice",
+              "vraag": "Wat is de nominatief meervoud onzijdig van 'ille'?",
+              "opties": [
+                "illa",
+                "illae",
+                "illi",
+                "illud"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het juiste antwoord is 'illa' (nom.sg.v, abl.sg.v, of nom./acc.mv.o van ille). De andere opties: 'illae' is nom.mv.v van ille, 'illi' is dat.sg van ille (alle geslachten) of nom.mv.m, 'illud' is nom./acc.sg.o van ille."
+            },
+            {
+              "id": 50,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitief meervoud vrouwelijk van 'ille'?",
+              "opties": [
+                "illis",
+                "illarum",
+                "illius",
+                "illorum"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'illarum' (gen.mv.v van ille). De andere opties: 'illis' is dat./abl.mv van ille (alle geslachten), 'illius' is gen.sg van ille (alle geslachten), 'illorum' is gen.mv.m/o van ille."
+            },
+            {
+              "id": 51,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief meervoud vrouwelijk van 'ille'?",
+              "opties": [
+                "illae",
+                "illas",
+                "illos",
+                "illa"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'illas' (acc.mv.v van ille). De andere opties: 'illae' is nom.mv.v van ille, 'illos' is acc.mv.m van ille, 'illa' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van ille."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.3",
+          "subdoel_titel": "Verbuiging iste, ista, istud",
+          "uitleg_tekst": "iste/ista/istud (die/dat, negatief): ev. nom: iste/ista/istud, gen: istius, dat: isti, acc: istum/istam/istud, abl: isto/ista/isto. Mv. nom: isti/istae/ista, gen: istorum/istarum/istorum, dat: istis, acc: istos/istas/ista, abl: istis. Volgt hetzelfde patroon als ille.",
+          "vragen": [
+            {
+              "id": 52,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitivus singularis van 'iste' (alle geslachten)?",
+              "opties": [
+                "istius",
+                "istum",
+                "isti",
+                "isto"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het juiste antwoord is 'istius' (gen.sg van iste (alle geslachten)). De andere opties: 'istum' is acc.sg.m van iste, 'isti' is dat.sg van iste (alle geslachten) of nom.mv.m, 'isto' is abl.sg.m/o van iste."
+            },
+            {
+              "id": 53,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis mannelijk van 'iste'?",
+              "opties": [
+                "istam",
+                "istud",
+                "istum",
+                "isto"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'istum' (acc.sg.m van iste). De andere opties: 'istam' is acc.sg.v van iste, 'istud' is nom./acc.sg.o van iste, 'isto' is abl.sg.m/o van iste."
+            },
+            {
+              "id": 54,
+              "type": "multiple_choice",
+              "vraag": "Wat is de ablatief singularis vrouwelijk van 'iste'?",
+              "opties": [
+                "ista",
+                "istius",
+                "istam",
+                "isto"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het juiste antwoord is 'ista' (nom.sg.v, abl.sg.v, of nom./acc.mv.o van iste). De andere opties: 'istius' is gen.sg van iste (alle geslachten), 'istam' is acc.sg.v van iste, 'isto' is abl.sg.m/o van iste."
+            },
+            {
+              "id": 55,
+              "type": "multiple_choice",
+              "vraag": "Wat is de nominatief meervoud onzijdig van 'iste'?",
+              "opties": [
+                "istae",
+                "isti",
+                "istud",
+                "ista"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'ista' (nom.sg.v, abl.sg.v, of nom./acc.mv.o van iste). De andere opties: 'istae' is nom.mv.v van iste, 'isti' is dat.sg van iste (alle geslachten) of nom.mv.m, 'istud' is nom./acc.sg.o van iste."
+            },
+            {
+              "id": 56,
+              "type": "multiple_choice",
+              "vraag": "Wat is de datief meervoud van 'iste' (alle geslachten)?",
+              "opties": [
+                "isto",
+                "istis",
+                "istorum",
+                "isti"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'istis' (dat./abl.mv van iste (alle geslachten)). De andere opties: 'isto' is abl.sg.m/o van iste, 'istorum' is gen.mv.m/o van iste, 'isti' is dat.sg van iste (alle geslachten) of nom.mv.m."
+            },
+            {
+              "id": 57,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis onzijdig van 'iste'?",
+              "opties": [
+                "ista",
+                "isto",
+                "istud",
+                "istum"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'istud' (nom./acc.sg.o van iste). De andere opties: 'ista' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van iste, 'isto' is abl.sg.m/o van iste, 'istum' is acc.sg.m van iste."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.4",
+          "subdoel_titel": "Verbuiging is, ea, id",
+          "uitleg_tekst": "is/ea/id (die/hij, deze/zij, dit/het): ev. nom: is/ea/id, gen: eius, dat: ei, acc: eum/eam/id, abl: eo/ea/eo. Mv. nom: ei(ii)/eae/ea, gen: eorum/earum/eorum, dat: eis(iis), acc: eos/eas/ea, abl: eis(iis).",
+          "vragen": [
+            {
+              "id": 58,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitivus singularis van 'is' (alle geslachten)?",
+              "opties": [
+                "eo",
+                "eius",
+                "ei",
+                "eum"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'eius' (gen.sg van is (alle geslachten)). De andere opties: 'eo' is abl.sg.m/o van is, 'ei' is dat.sg van is (alle geslachten) of nom.mv.m, 'eum' is acc.sg.m van is."
+            },
+            {
+              "id": 59,
+              "type": "multiple_choice",
+              "vraag": "Wat is de datief singularis van 'is' (alle geslachten)?",
+              "opties": [
+                "eius",
+                "eum",
+                "ei",
+                "eo"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het juiste antwoord is 'ei' (dat.sg van is (alle geslachten) of nom.mv.m). De andere opties: 'eius' is gen.sg van is (alle geslachten), 'eum' is acc.sg.m van is, 'eo' is abl.sg.m/o van is."
+            },
+            {
+              "id": 60,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis mannelijk van 'is'?",
+              "opties": [
+                "eius",
+                "eum",
+                "eam",
+                "id"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'eum' (acc.sg.m van is). De andere opties: 'eius' is gen.sg van is (alle geslachten), 'eam' is acc.sg.v van is, 'id' is nom./acc.sg.o van is."
+            },
+            {
+              "id": 61,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief singularis vrouwelijk van 'is'?",
+              "opties": [
+                "ei",
+                "eam",
+                "ea",
+                "eum"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'eam' (acc.sg.v van is). De andere opties: 'ei' is dat.sg van is (alle geslachten) of nom.mv.m, 'ea' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van is, 'eum' is acc.sg.m van is."
+            },
+            {
+              "id": 62,
+              "type": "multiple_choice",
+              "vraag": "Wat is de ablatief singularis mannelijk van 'is'?",
+              "opties": [
+                "ea",
+                "ei",
+                "eum",
+                "eo"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'eo' (abl.sg.m/o van is). De andere opties: 'ea' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van is, 'ei' is dat.sg van is (alle geslachten) of nom.mv.m, 'eum' is acc.sg.m van is."
+            },
+            {
+              "id": 63,
+              "type": "multiple_choice",
+              "vraag": "Wat is de nominatief meervoud vrouwelijk van 'is'?",
+              "opties": [
+                "ea",
+                "eae",
+                "ei",
+                "eas"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'eae' (nom.mv.v van is). De andere opties: 'ea' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van is, 'ei' is dat.sg van is (alle geslachten) of nom.mv.m, 'eas' is acc.mv.v van is."
+            },
+            {
+              "id": 64,
+              "type": "multiple_choice",
+              "vraag": "Wat is de genitief meervoud mannelijk van 'is'?",
+              "opties": [
+                "eorum",
+                "eius",
+                "eis",
+                "earum"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het juiste antwoord is 'eorum' (gen.mv.m/o van is). De andere opties: 'eius' is gen.sg van is (alle geslachten), 'eis' is dat./abl.mv van is (alle geslachten), 'earum' is gen.mv.v van is."
+            },
+            {
+              "id": 65,
+              "type": "multiple_choice",
+              "vraag": "Wat is de accusatief meervoud mannelijk van 'is'?",
+              "opties": [
+                "ei",
+                "eos",
+                "eas",
+                "ea"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het juiste antwoord is 'eos' (acc.mv.m van is). De andere opties: 'ei' is dat.sg van is (alle geslachten) of nom.mv.m, 'eas' is acc.mv.v van is, 'ea' is nom.sg.v, abl.sg.v, of nom./acc.mv.o van is."
+            },
+            {
+              "id": 66,
+              "type": "multiple_choice",
+              "vraag": "Wat is de datief/ablatief meervoud van 'is' (alle geslachten)?",
+              "opties": [
+                "eorum",
+                "eius",
+                "eos",
+                "eis"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het juiste antwoord is 'eis' (dat./abl.mv van is (alle geslachten)). De andere opties: 'eorum' is gen.mv.m/o van is, 'eius' is gen.sg van is (alle geslachten), 'eos' is acc.mv.m van is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 4,
+      "leerdoel_titel": "Vormherkenning",
+      "paragraaf": "16.2",
+      "uitleg_tekst": "Bij vormherkenning krijg je een vorm van een aanwijzend voornaamwoord en moet je bepalen: welke naamval, welk geslacht, welk getal, en van welk voornaamwoord het een vorm is. Let op vormen die bij meerdere naamvallen/geslachten kunnen horen!",
+      "subdoelen": [
+        {
+          "subdoel_id": "4.1",
+          "subdoel_titel": "Naamval bepalen",
+          "uitleg_tekst": "Bepaal van een gegeven vorm van een aanwijzend voornaamwoord welke naamval het is.",
+          "vragen": [
+            {
+              "id": 67,
+              "type": "multiple_choice",
+              "vraag": "'huius' is de ...",
+              "opties": [
+                "accusatief singularis",
+                "genitivus singularis",
+                "datief singularis",
+                "nominatief singularis"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Huius' is de genitivus singularis van hic (alle geslachten). De andere opties: de nominatief sg. is hic/haec/hoc, de datief sg. is huic, en de accusatief sg. is hunc/hanc/hoc."
+            },
+            {
+              "id": 68,
+              "type": "multiple_choice",
+              "vraag": "'illum' is de ...",
+              "opties": [
+                "datief singularis",
+                "nominatief singularis",
+                "accusatief singularis",
+                "genitivus singularis"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Illum' is de accusatief singularis mannelijk van ille. De andere opties: de nominatief sg.m is ille, de genitivus sg. is illius, en de datief sg. is illi."
+            },
+            {
+              "id": 69,
+              "type": "multiple_choice",
+              "vraag": "'eo' is de ...",
+              "opties": [
+                "ablatief singularis",
+                "datief singularis",
+                "nominatief singularis",
+                "genitivus singularis"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Eo' is de ablatief singularis mannelijk/onzijdig van is. De andere opties: de nominatief sg.m is 'is', de datief sg. is 'ei', en de genitivus sg. is 'eius'."
+            },
+            {
+              "id": 70,
+              "type": "multiple_choice",
+              "vraag": "'hanc' is de ...",
+              "opties": [
+                "datief singularis",
+                "ablatief singularis vrouwelijk",
+                "nominatief singularis vrouwelijk",
+                "accusatief singularis vrouwelijk"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Hanc' is de accusatief singularis vrouwelijk van hic. De andere opties: de nominatief sg.v is 'haec', de ablatief sg.v is 'hac', en de datief sg. is 'huic'."
+            },
+            {
+              "id": 71,
+              "type": "multiple_choice",
+              "vraag": "'eius' is de ...",
+              "opties": [
+                "nominatief singularis",
+                "datief singularis",
+                "genitivus singularis",
+                "ablatief singularis"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Eius' is de genitivus singularis van is (alle geslachten). De andere opties: de nominatief sg.m is 'is', de ablatief sg. is 'eo/ea', en de datief sg. is 'ei'."
+            },
+            {
+              "id": 72,
+              "type": "multiple_choice",
+              "vraag": "'illis' is de ...",
+              "opties": [
+                "genitivus meervoud",
+                "datief of ablatief meervoud",
+                "nominatief meervoud",
+                "accusatief meervoud"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Illis' is de datief óf ablatief meervoud van ille (alle geslachten). De andere opties: de genitivus mv. is illorum/illarum, de accusatief mv. is illos/illas/illa, en de nominatief mv. is illi/illae/illa."
+            },
+            {
+              "id": 73,
+              "type": "multiple_choice",
+              "vraag": "'hoc' kan NIET de ... zijn:",
+              "opties": [
+                "ablatief singularis mannelijk",
+                "accusatief singularis onzijdig",
+                "genitivus singularis",
+                "nominatief singularis onzijdig"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Hoc' kan nom.sg.o, acc.sg.o, óf abl.sg.m/o zijn — maar NIET de genitivus. De genitivus sg. van hic is 'huius'. De andere drie opties zijn wél mogelijke functies van 'hoc'."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.2",
+          "subdoel_titel": "Geslacht en getal bepalen",
+          "uitleg_tekst": "Bepaal van een gegeven vorm het geslacht (mannelijk, vrouwelijk, onzijdig) en het getal (enkelvoud, meervoud).",
+          "vragen": [
+            {
+              "id": 74,
+              "type": "multiple_choice",
+              "vraag": "'illud' is ...",
+              "opties": [
+                "onzijdig enkelvoud",
+                "mannelijk enkelvoud",
+                "onzijdig meervoud",
+                "vrouwelijk enkelvoud"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Illud' is onzijdig enkelvoud (nom. of acc.) van ille. Let op de -d uitgang: die is kenmerkend voor onzijdig. De andere opties: mannelijk ev. nom. zou 'ille' zijn, vrouwelijk ev. zou 'illa' zijn, en onzijdig meervoud zou 'illa' zijn."
+            },
+            {
+              "id": 75,
+              "type": "multiple_choice",
+              "vraag": "'hunc' is ...",
+              "opties": [
+                "onzijdig enkelvoud",
+                "vrouwelijk enkelvoud",
+                "mannelijk enkelvoud",
+                "mannelijk meervoud"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Hunc' is mannelijk enkelvoud (accusatief) van hic. De andere opties: vrouwelijk ev. acc. zou 'hanc' zijn, onzijdig ev. zou 'hoc' zijn, en mannelijk meervoud acc. zou 'hos' zijn."
+            },
+            {
+              "id": 76,
+              "type": "multiple_choice",
+              "vraag": "'eas' is ...",
+              "opties": [
+                "onzijdig meervoud",
+                "mannelijk meervoud",
+                "vrouwelijk enkelvoud",
+                "vrouwelijk meervoud"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Eas' is vrouwelijk meervoud (accusatief) van is. De andere opties: vrouwelijk ev. acc. zou 'eam' zijn, mannelijk mv. acc. zou 'eos' zijn, en onzijdig mv. zou 'ea' zijn."
+            },
+            {
+              "id": 77,
+              "type": "multiple_choice",
+              "vraag": "'hae' is ...",
+              "opties": [
+                "mannelijk meervoud",
+                "vrouwelijk meervoud",
+                "vrouwelijk enkelvoud",
+                "onzijdig meervoud"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Hae' is vrouwelijk meervoud (nominatief) van hic. De andere opties: vrouwelijk ev. zou 'haec' zijn (nom.sg.v), mannelijk mv. zou 'hi' zijn, en onzijdig mv. zou 'haec' zijn (dezelfde vorm als nom.sg.v!)."
+            },
+            {
+              "id": 78,
+              "type": "choose_all_that_apply",
+              "vraag": "'illa' kan zijn (meerdere antwoorden mogelijk):",
+              "opties": [
+                "nominatief singularis vrouwelijk",
+                "ablatief singularis vrouwelijk",
+                "nominatief meervoud onzijdig",
+                "accusatief meervoud onzijdig",
+                "genitivus singularis"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "uitleg": "'Illa' is een van de meest dubbelzinnige vormen: het kan nom.sg.v ('die vrouw'), abl.sg.v ('met die vrouw'), nom.mv.o ('die geschenken'), én acc.mv.o ('die geschenken') zijn. De andere opties: genitivus sg. is NIET mogelijk — die is 'illius'. Context bepaalt welke functie 'illa' heeft!"
+            },
+            {
+              "id": 79,
+              "type": "choose_all_that_apply",
+              "vraag": "'ea' kan zijn (meerdere antwoorden mogelijk):",
+              "opties": [
+                "nominatief singularis vrouwelijk",
+                "ablatief singularis vrouwelijk",
+                "nominatief meervoud onzijdig",
+                "accusatief meervoud onzijdig",
+                "accusatief singularis vrouwelijk"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "uitleg": "'Ea' is net zo dubbelzinnig als 'illa': het kan nom.sg.v, abl.sg.v, nom.mv.o, én acc.mv.o zijn. De andere opties: acc.sg.v is NIET mogelijk — die is 'eam'. Let op de context om de juiste functie te bepalen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.3",
+          "subdoel_titel": "Welk voornaamwoord?",
+          "uitleg_tekst": "Herken van welk aanwijzend voornaamwoord (hic, ille, iste of is) een gegeven vorm afkomstig is.",
+          "vragen": [
+            {
+              "id": 80,
+              "type": "multiple_choice",
+              "vraag": "'istum' is een vorm van ...",
+              "opties": [
+                "iste",
+                "hic",
+                "ille",
+                "is"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Istum' (acc.sg.m) is een vorm van iste/ista/istud. Herkenbaar aan de stam 'ist-'. De andere opties zijn fout: bij hic zou het 'hunc' zijn, bij ille 'illum', en bij is 'eum'."
+            },
+            {
+              "id": 81,
+              "type": "multiple_choice",
+              "vraag": "'eius' is een vorm van ...",
+              "opties": [
+                "iste",
+                "is",
+                "hic",
+                "ille"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Eius' (gen.sg) is een vorm van is/ea/id. Herkenbaar aan de 'e-' stam. De andere opties zijn fout: bij hic zou het 'huius' zijn, bij ille 'illius', en bij iste 'istius'."
+            },
+            {
+              "id": 82,
+              "type": "multiple_choice",
+              "vraag": "'hanc' is een vorm van ...",
+              "opties": [
+                "hic",
+                "ille",
+                "iste",
+                "is"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Hanc' (acc.sg.v) is een vorm van hic/haec/hoc. De 'h' verraadt het! De andere opties zijn fout: bij ille zou het 'illam' zijn, bij iste 'istam', en bij is 'eam'."
+            },
+            {
+              "id": 83,
+              "type": "multiple_choice",
+              "vraag": "'illius' is een vorm van ...",
+              "opties": [
+                "iste",
+                "ille",
+                "hic",
+                "is"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Illius' (gen.sg) is een vorm van ille/illa/illud. Herkenbaar aan de stam 'ill-'. De andere opties zijn fout: bij hic zou het 'huius' zijn, bij iste 'istius', en bij is 'eius'."
+            },
+            {
+              "id": 84,
+              "type": "multiple_choice",
+              "vraag": "'huic' is een vorm van ...",
+              "opties": [
+                "hic",
+                "ille",
+                "is",
+                "iste"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Huic' (dat.sg) is een vorm van hic/haec/hoc. De 'h' en de bijzondere vorm '-uic' zijn kenmerkend. De andere opties zijn fout: bij ille zou het 'illi' zijn, bij iste 'isti', en bij is 'ei'."
+            },
+            {
+              "id": 85,
+              "type": "multiple_choice",
+              "vraag": "'eam' is een vorm van ...",
+              "opties": [
+                "iste",
+                "hic",
+                "is",
+                "ille"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Eam' (acc.sg.v) is een vorm van is/ea/id. De 'e-' stam is kenmerkend. De andere opties zijn fout: bij hic zou het 'hanc' zijn, bij ille 'illam', en bij iste 'istam'."
+            },
+            {
+              "id": 86,
+              "type": "multiple_choice",
+              "vraag": "'istae' is een vorm van ...",
+              "opties": [
+                "hic",
+                "ille",
+                "is",
+                "iste"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Istae' (nom.mv.v) is een vorm van iste/ista/istud. Herkenbaar aan de stam 'ist-'. De andere opties zijn fout: bij hic zou het 'hae' zijn, bij ille 'illae', en bij is 'eae'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 5,
+      "leerdoel_titel": "Vormproductie",
+      "paragraaf": "16.2",
+      "uitleg_tekst": "Bij vormproductie moet je zelf de juiste vorm van een aanwijzend voornaamwoord geven op basis van de gevraagde naamval, het geslacht en het getal. Dit vereist actieve kennis van de verbuigingstabellen.",
+      "subdoelen": [
+        {
+          "subdoel_id": "5.1",
+          "subdoel_titel": "Juiste vorm geven",
+          "uitleg_tekst": "Geef de gevraagde verbuigingsvorm van het aanwijzend voornaamwoord.",
+          "vragen": [
+            {
+              "id": 87,
+              "type": "invullen",
+              "vraag": "Geef de genitivus singularis van 'hic' (mannelijk).",
+              "juiste_antwoord": "huius",
+              "uitleg": "Gen. sg. van hic = 'huius' (alle geslachten)."
+            },
+            {
+              "id": 88,
+              "type": "invullen",
+              "vraag": "Geef de accusatief singularis vrouwelijk van 'ille'.",
+              "juiste_antwoord": "illam",
+              "uitleg": "Acc. sg. v. van ille = 'illam'."
+            },
+            {
+              "id": 89,
+              "type": "invullen",
+              "vraag": "Geef de datief singularis van 'is' (alle geslachten).",
+              "juiste_antwoord": "ei",
+              "uitleg": "Dat. sg. van is = 'ei' (alle geslachten)."
+            },
+            {
+              "id": 90,
+              "type": "invullen",
+              "vraag": "Geef de ablatief singularis vrouwelijk van 'hic'.",
+              "juiste_antwoord": "hac",
+              "uitleg": "Abl. sg. v. van hic = 'hac'. Let op: mannelijk/onzijdig = hoc."
+            },
+            {
+              "id": 91,
+              "type": "invullen",
+              "vraag": "Geef de nominatief meervoud onzijdig van 'ille'.",
+              "juiste_antwoord": "illa",
+              "uitleg": "Nom. mv. o. van ille = 'illa'. Dit is dezelfde vorm als nom. sg. v.!"
+            },
+            {
+              "id": 92,
+              "type": "invullen",
+              "vraag": "Geef de genitief meervoud mannelijk van 'is'.",
+              "juiste_antwoord": "eorum",
+              "uitleg": "Gen. mv. m. van is = 'eorum'. Vrouwelijk = earum."
+            },
+            {
+              "id": 93,
+              "type": "invullen",
+              "vraag": "Geef de accusatief meervoud vrouwelijk van 'hic'.",
+              "juiste_antwoord": "has",
+              "uitleg": "Acc. mv. v. van hic = 'has'. Mannelijk = hos."
+            },
+            {
+              "id": 94,
+              "type": "invullen",
+              "vraag": "Geef de datief meervoud van 'iste' (alle geslachten).",
+              "juiste_antwoord": "istis",
+              "uitleg": "Dat./abl. mv. van iste = 'istis' (alle geslachten)."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.2",
+          "subdoel_titel": "Invullen in context",
+          "uitleg_tekst": "Vul de juiste vorm van het aanwijzend voornaamwoord in op basis van de zinscontext.",
+          "vragen": [
+            {
+              "id": 95,
+              "type": "invullen",
+              "vraag": "Vul in: '___ puella pulchra est.' (deze, bij de spreker, nom. sg. v.)",
+              "juiste_antwoord": "haec",
+              "uitleg": "Nom. sg. v. van hic = 'haec'. Het voornaamwoord congrueert met 'puella' (vrouwelijk, nominatief, enkelvoud)."
+            },
+            {
+              "id": 96,
+              "type": "invullen",
+              "vraag": "Vul in: 'Librum ___ viri lego.' (van die, neutraal, gen. sg. m.)",
+              "juiste_antwoord": "illius",
+              "uitleg": "Gen. sg. van ille = 'illius'. 'Van die man' vereist de genitivus."
+            },
+            {
+              "id": 97,
+              "type": "invullen",
+              "vraag": "Vul in: '___ templa magna sunt.' (die, neutraal, nom. mv. o.)",
+              "juiste_antwoord": "illa",
+              "uitleg": "Nom. mv. o. van ille = 'illa'. 'Templa' is onzijdig meervoud."
+            },
+            {
+              "id": 98,
+              "type": "invullen",
+              "vraag": "Vul in: 'Donum ___ feminae dedi.' (aan die, negatief, dat. sg. v.)",
+              "juiste_antwoord": "isti",
+              "uitleg": "Dat. sg. van iste = 'isti'. 'Negatief' wijst op iste. 'Aan die vrouw' vereist de datief."
+            },
+            {
+              "id": 99,
+              "type": "invullen",
+              "vraag": "Vul in: 'Cum ___ viro ambulabam.' (met deze, bij de spreker, abl. sg. m.)",
+              "juiste_antwoord": "hoc",
+              "uitleg": "Abl. sg. m. van hic = 'hoc'. 'Cum' (met) vereist de ablatief."
+            },
+            {
+              "id": 100,
+              "type": "invullen",
+              "vraag": "Vul in: '___ exemplum bonum est.' (dit, verwijzend, nom. sg. o.)",
+              "juiste_antwoord": "id",
+              "uitleg": "Nom. sg. o. van is = 'id'. 'Exemplum' is onzijdig."
+            },
+            {
+              "id": 101,
+              "type": "invullen",
+              "vraag": "Vul in: 'Rex ___ milites laudavit.' (die, neutraal, acc. mv. m.)",
+              "juiste_antwoord": "illos",
+              "uitleg": "Acc. mv. m. van ille = 'illos'. 'Milites' is hier accusatief (lijdend voorwerp)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 6,
+      "leerdoel_titel": "Vertaling & toepassing",
+      "paragraaf": "16.1-16.3",
+      "uitleg_tekst": "Bij vertaalvragen vertaal je korte Latijnse zinnen naar het Nederlands. Let op het juiste aanwijzend voornaamwoord en de woordenlijst. Bijzondere aandacht voor is/ea/id: dit kan aanwijzend ('die/dat') óf persoonlijk ('hij/zij/het') vertaald worden. Test: congrueert het met een ander woord? → aanwijzend. Staat het alleen? → persoonlijk.",
+      "subdoelen": [
+        {
+          "subdoel_id": "6.1",
+          "subdoel_titel": "Zinsvertaling (Latijn → Nederlands)",
+          "uitleg_tekst": "Vertaal korte Latijnse zinnen met aanwijzende voornaamwoorden en woorden uit de woordenlijst van H16.",
+          "vragen": [
+            {
+              "id": 102,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Hic vir exemplum tradidit'?",
+              "opties": [
+                "Die man heeft een voorbeeld overhandigd",
+                "Die man was afwezig",
+                "Deze man overwon het voorbeeld",
+                "Deze man heeft een voorbeeld overhandigd"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Hic vir exemplum tradidit' = 'Deze man heeft een voorbeeld overhandigd.' 'Hic' = deze (dichtbij spreker, niet 'die'). 'Tradidit' = heeft overhandigd (van tradere, niet vincere). De fout in de andere opties: 'die' (ille, niet hic), 'overwon' (vicit, niet tradidit), 'was afwezig' (aberat, niet tradidit)."
+            },
+            {
+              "id": 103,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Ille rex milites vicit'?",
+              "opties": [
+                "Die koning overwon de soldaten",
+                "Deze koning overwon de soldaten",
+                "Die koning doodde de soldaten",
+                "Die koning was zo groot"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Ille rex milites vicit' = 'Die koning overwon de soldaten.' 'Ille' = die (ver weg, niet 'deze'). 'Vicit' = overwon (van vincere, niet interficere). De fout in de andere opties: 'doodde' zou interfecit zijn, 'deze' zou hic zijn, 'zo groot' vertaalt tantus."
+            },
+            {
+              "id": 104,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Tantus erat iste exercitus'?",
+              "opties": [
+                "Zo groot was dat leger (negatief bedoeld)",
+                "Zo groot was zijn leger",
+                "Die grote soldaat was er",
+                "Zo groot was dit leger"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Tantus erat iste exercitus' = 'Zo groot was dat leger' (negatief bedoeld). 'Iste' heeft een negatieve bijklank. De fout in de andere opties: 'dit' zou hic zijn (niet iste), 'die grote soldaat' vertaalt de woorden verkeerd, en 'zijn leger' zou 'eius exercitus' zijn."
+            },
+            {
+              "id": 105,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Nisi abest, veniet'?",
+              "opties": [
+                "Omdat hij afwezig is, zal hij komen",
+                "Hoewel hij afwezig is, zal hij komen",
+                "Als hij afwezig is, zal hij komen",
+                "Als hij niet afwezig is, zal hij komen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Nisi abest, veniet' = 'Als hij niet afwezig is, zal hij komen.' 'Nisi' = als niet. De fout in de andere opties: 'als' zonder ontkenning zou 'si' zijn, 'hoewel' zou 'quamquam' zijn, en 'omdat' zou 'quod' zijn."
+            },
+            {
+              "id": 106,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'pater materque'?",
+              "opties": [
+                "vader noch moeder",
+                "vader maar moeder",
+                "vader of moeder",
+                "vader en moeder"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Pater materque' = 'vader en moeder'. '-que' = en (achter het tweede woord). De fout in de andere opties: 'of' zou 'aut' vereisen, 'maar' zou 'sed' vereisen, en 'noch' zou 'neque' vereisen."
+            },
+            {
+              "id": 107,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Haec femina illum virum interfecit'?",
+              "opties": [
+                "Deze vrouw doodde die man",
+                "Die vrouw doodde deze man",
+                "Deze vrouw overwon die man",
+                "Die vrouw overwon deze man"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Haec femina illum virum interfecit' = 'Deze vrouw doodde die man.' 'Haec' = deze (nom.sg.v, bij spreker), 'illum' = die (acc.sg.m, ver weg), 'interfecit' = heeft gedood. De fout in de andere opties: 'die vrouw' zou 'illa femina' zijn, 'overwon' zou 'vicit' zijn."
+            },
+            {
+              "id": 108,
+              "type": "multiple_choice",
+              "vraag": "Wat is de juiste vertaling van 'Id exemplum tradidimus'?",
+              "opties": [
+                "Die voorbeelden hebben wij overwonnen",
+                "Dat voorbeeld heb ik overhandigd",
+                "Dit voorbeeld hebben wij overhandigd",
+                "Het voorbeeld is overgeleverd"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Id exemplum tradidimus' = 'Dit/dat voorbeeld hebben wij overhandigd.' 'Id' = dit/dat (nom./acc.sg.o), 'tradidimus' = wij hebben overhandigd (1e mv.perf.). De fout in de andere opties: 'heb ik' zou 'tradidi' (1e ev.) zijn, 'overwonnen' zou 'vicimus' zijn, 'is overgeleverd' zou passief zijn."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "6.2",
+          "subdoel_titel": "is/ea/id: aanwijzend of persoonlijk?",
+          "uitleg_tekst": "is/ea/id kan vertaald worden als aanwijzend voornaamwoord ('die/dat') of als persoonlijk voornaamwoord ('hij/zij/het'). Test: congrueert het met een ander zelfstandig naamwoord? → aanwijzend. Staat het alleen (zonder bijbehorend naamwoord)? → persoonlijk.",
+          "vragen": [
+            {
+              "id": 109,
+              "type": "multiple_choice",
+              "vraag": "In 'Paris cum eo rege cenavit.' Hoe vertaal je 'eo'?",
+              "opties": [
+                "hem (persoonlijk)",
+                "die (aanwijzend)",
+                "het (persoonlijk)",
+                "zijn (bezittelijk)"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "'Eo' congrueert hier met 'rege' (beide abl.sg.m) → aanwijzend: 'met die koning'. De andere opties: 'hem' (persoonlijk) zou kloppen als 'eo' alleen stond zonder bijbehorend naamwoord, 'zijn' is een bezittelijke functie (gen.), en 'het' past niet bij mannelijk."
+            },
+            {
+              "id": 110,
+              "type": "multiple_choice",
+              "vraag": "In 'Paris in regia eius dormivit.' Hoe vertaal je 'eius'?",
+              "opties": [
+                "zijn/haar (bezittelijk)",
+                "dat (aanwijzend)",
+                "hem (persoonlijk)",
+                "die (aanwijzend)"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Eius' (gen.) staat hier bezittelijk: 'in zijn/haar paleis'. Het congrueert niet met een ander woord in dezelfde naamval. De andere opties: 'die' (aanwijzend) zou alleen kloppen als eius met een ander gen.-woord congrueerde, 'dat' is onzijdig aanwijzend, en 'hem' is accusatief/datief."
+            },
+            {
+              "id": 111,
+              "type": "multiple_choice",
+              "vraag": "Hoe bepaal je of 'is/ea/id' aanwijzend of persoonlijk vertaald moet worden?",
+              "opties": [
+                "kijk of het in de nominatief staat",
+                "kijk of het congrueert met een ander woord",
+                "kijk of het onderwerp is",
+                "kijk of het mannelijk is"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De sleutel is congruentie: als is/ea/id in dezelfde naamval, geslacht en getal staat als een ander zelfstandig naamwoord → aanwijzend. Staat het alleen → persoonlijk. De andere opties: onderwerp-zijn of nominatief-zijn bepaalt niet de functie, en geslacht is ook niet bepalend."
+            },
+            {
+              "id": 112,
+              "type": "multiple_choice",
+              "vraag": "In 'Ea puella cantat.' Is 'ea' hier aanwijzend of persoonlijk?",
+              "opties": [
+                "bijwoordelijk, want het hoort bij het werkwoord",
+                "bezittelijk ('haar'), want het is genitivus",
+                "persoonlijk ('zij'), want het is vrouwelijk",
+                "aanwijzend ('die/dat'), want het congrueert met 'puella'"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Ea' congrueert met 'puella' (beide nom.sg.v) → aanwijzend: 'die/dat meisje zingt.' De andere opties: 'persoonlijk' zou kloppen als 'ea' alleen stond, 'bezittelijk' is genitivus-functie, en 'bijwoordelijk' is geen functie van voornaamwoorden."
+            },
+            {
+              "id": 113,
+              "type": "multiple_choice",
+              "vraag": "In 'Rex eam vidit.' Is 'eam' hier aanwijzend of persoonlijk?",
+              "opties": [
+                "aanwijzend, want het congrueert met een weggelaten woord",
+                "aanwijzend, want het congrueert met 'rex'",
+                "persoonlijk ('haar'), want het staat alleen als object",
+                "bezittelijk ('haar'), want het is genitivus"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Eam' (acc.sg.v) staat hier alleen als lijdend voorwerp, zonder bijbehorend naamwoord → persoonlijk: 'De koning zag haar.' De andere opties: 'congrueert met rex' klopt niet (rex is nom.m, eam is acc.v), 'bezittelijk/genitivus' is eius, en 'weggelaten woord' is te speculatief."
+            },
+            {
+              "id": 114,
+              "type": "multiple_choice",
+              "vraag": "In 'Id templum magnum est.' Is 'id' hier aanwijzend of persoonlijk?",
+              "opties": [
+                "bijwoordelijk, want het geeft extra informatie",
+                "persoonlijk ('het'), want het is onzijdig",
+                "bezittelijk ('zijn'), want het is genitivus",
+                "aanwijzend ('dat'), want het congrueert met 'templum'"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "'Id' congrueert met 'templum' (beide nom.sg.o) → aanwijzend: 'Dat tempel is groot.' De andere opties: 'persoonlijk' zou kloppen als 'id' alleen stond, 'bezittelijk/genitivus' zou 'eius' zijn, en 'bijwoordelijk' is geen functie van voornaamwoorden."
+            },
+            {
+              "id": 115,
+              "type": "multiple_choice",
+              "vraag": "In 'Is vicit.' Is 'is' hier aanwijzend of persoonlijk?",
+              "opties": [
+                "persoonlijk ('hij'), want het staat alleen als onderwerp",
+                "het kan niet bepaald worden",
+                "aanwijzend, want het congrueert met een zelfstandig naamwoord",
+                "bezittelijk, want het is genitivus"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Is' staat hier alleen als onderwerp, zonder bijbehorend naamwoord → persoonlijk: 'Hij heeft overwonnen.' De andere opties: 'aanwijzend' zou kloppen als 'is' bij een naamwoord stond (bijv. 'is vir'), 'bezittelijk' is geen nominatief-functie, en het kán wel bepaald worden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 7,
+      "leerdoel_titel": "Bijwoorden (groep 1 en 2)",
+      "paragraaf": "16.3",
+      "uitleg_tekst": "Bijwoorden geven extra informatie over een werkwoord (hoe iets gedaan wordt). Bijvoeglijke naamwoorden geven extra informatie over een zelfstandig naamwoord. In het Latijn worden bijwoorden van groep 1 en 2 gevormd door de uitgang -e toe te voegen aan de stam. Voorbeeld: pulcher (mooi, bijv. nw) → pulchre (mooi, bijwoord). Vergelijk: 'Puella pulchra cantat' (het mooie meisje zingt) vs 'Puella pulchre cantat' (het meisje zingt mooi).",
+      "subdoelen": [
+        {
+          "subdoel_id": "7.1",
+          "subdoel_titel": "Bijwoordvormen",
+          "uitleg_tekst": "Bijwoorden van bijvoeglijke naamwoorden van groep 1 en 2 worden gevormd met de uitgang -e: pulcher → pulchre, miser → misere, clarus → clare.",
+          "vragen": [
+            {
+              "id": 116,
+              "type": "multiple_choice",
+              "vraag": "Hoe maak je een bijwoord van een bijvoeglijk naamwoord van groep 1 of 2?",
+              "opties": [
+                "door -e toe te voegen",
+                "door -o toe te voegen",
+                "door -us toe te voegen",
+                "door -iter toe te voegen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bijwoorden van groep 1 en 2 worden gevormd met uitgang -e (bijv. pulchre, misere, clare). De andere opties: -us is een nom.sg.m uitgang, -iter is de bijwoorduitgang van groep 3, en -o is een abl.sg uitgang."
+            },
+            {
+              "id": 117,
+              "type": "invullen",
+              "vraag": "Wat is het bijwoord van 'pulcher' (mooi)?",
+              "juiste_antwoord": "pulchre",
+              "uitleg": "Stam 'pulchr-' + uitgang '-e' = 'pulchre' (op een mooie manier)."
+            },
+            {
+              "id": 118,
+              "type": "invullen",
+              "vraag": "Wat is het bijwoord van 'miser' (ellendig)?",
+              "juiste_antwoord": "misere",
+              "uitleg": "Stam 'miser-' + uitgang '-e' = 'misere' (op een ellendige manier)."
+            },
+            {
+              "id": 119,
+              "type": "multiple_choice",
+              "vraag": "Wat is het bijwoord van 'clarus' (beroemd/duidelijk)?",
+              "opties": [
+                "clare",
+                "claro",
+                "claris",
+                "clarum"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Stam 'clar-' + uitgang '-e' = 'clare'. De andere opties: 'claro' is abl.sg.m/o van het bijvoeglijk naamwoord, 'clarum' is acc.sg.m of nom./acc.sg.o, en 'claris' is dat./abl.mv."
+            },
+            {
+              "id": 120,
+              "type": "multiple_choice",
+              "vraag": "Wat is het bijwoord van 'latus' (breed)?",
+              "opties": [
+                "latum",
+                "late",
+                "lato",
+                "latis"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Stam 'lat-' + uitgang '-e' = 'late'. De andere opties: 'lato' is abl.sg.m/o van het bijvoeglijk naamwoord, 'latum' is acc.sg.m of nom./acc.sg.o, en 'latis' is dat./abl.mv."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "7.2",
+          "subdoel_titel": "Bijvoeglijk vs bijwoordelijk",
+          "uitleg_tekst": "Een bijvoeglijk naamwoord congrueert met een zelfstandig naamwoord (puella pulchra). Een bijwoord geeft informatie over het werkwoord en congrueert niet (puella pulchre cantat).",
+          "vragen": [
+            {
+              "id": 121,
+              "type": "multiple_choice",
+              "vraag": "In 'Puella pulchra cantat' is 'pulchra' een ...",
+              "opties": [
+                "bijvoeglijk naamwoord",
+                "werkwoord",
+                "zelfstandig naamwoord",
+                "bijwoord"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Pulchra' congrueert met 'puella' (beide nom.sg.v) → bijvoeglijk naamwoord: 'het mooie meisje zingt'. De andere opties: een bijwoord zou 'pulchre' zijn (met -e), een zelfstandig naamwoord is het niet, en een werkwoord al helemaal niet."
+            },
+            {
+              "id": 122,
+              "type": "multiple_choice",
+              "vraag": "In 'Puella pulchre cantat' is 'pulchre' een ...",
+              "opties": [
+                "bijwoord",
+                "werkwoord",
+                "zelfstandig naamwoord",
+                "bijvoeglijk naamwoord"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "'Pulchre' (met -e uitgang) is een bijwoord: het beschrijft hóe het meisje zingt. De andere opties: een bijvoeglijk naamwoord zou congrueren met een naamwoord (dan zou het 'pulchra' zijn), en het is geen zelfstandig naamwoord of werkwoord."
+            },
+            {
+              "id": 123,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen 'Puella pulchra cantat' en 'Puella pulchre cantat'?",
+              "opties": [
+                "In zin 1 geeft pulchra info over het zingen, in zin 2 geeft pulchre info over het meisje",
+                "Er is geen verschil in betekenis",
+                "Zin 1 staat in het enkelvoud, zin 2 in het meervoud",
+                "In zin 1 geeft pulchra info over het meisje, in zin 2 geeft pulchre info over het zingen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In zin 1 beschrijft 'pulchra' (bijv.nw) het meisje, in zin 2 beschrijft 'pulchre' (bijwoord) het zingen. De andere opties: de omgekeerde bewering is fout, er is wél verschil, en het getal verandert niet."
+            },
+            {
+              "id": 124,
+              "type": "multiple_choice",
+              "vraag": "Vertaal 'Puella pulchre cantat.'",
+              "opties": [
+                "Het mooie meisje zingt.",
+                "Het meisje zingt een mooi lied.",
+                "Het meisje zingt mooi.",
+                "Het mooie meisje zong."
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "'Pulchre' is een bijwoord (uitgang -e) → 'Het meisje zingt mooi.' De andere opties: 'Het mooie meisje zingt' zou 'Puella pulchra cantat' zijn (bijv.nw), 'een mooi lied' staat niet in de zin, en 'zong' (verleden tijd) klopt niet met 'cantat' (praesens)."
+            },
+            {
+              "id": 125,
+              "type": "multiple_choice",
+              "vraag": "Een bijwoord geeft extra informatie over ...",
+              "opties": [
+                "een zelfstandig naamwoord",
+                "een lidwoord",
+                "een werkwoord",
+                "een voornaamwoord"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een bijwoord geeft extra informatie over een werkwoord (of soms bijv.nw/bijwoord). De andere opties: over een zelfstandig naamwoord → dat doet een bijvoeglijk naamwoord, een lidwoord bestaat niet in het Latijn, en voornaamwoorden worden niet door bijwoorden beschreven."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
