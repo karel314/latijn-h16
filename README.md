@@ -27,3 +27,12 @@ Quiz PWA voor Latijn Grammatica les 16. Offline beschikbaar op elke telefoon.
 ## Technologie
 
 Vanilla HTML/CSS/JS, geen frameworks. Service worker voor offline caching. Gehost via GitHub Pages.
+
+## Changelog
+
+### v1.1
+- Verbuigingstabellen op flashcards netjes opgemaakt: elke naamval op een aparte regel, gegroepeerd per enkelvoud/meervoud
+- Flashcard-hoogte past zich dynamisch aan bij langere inhoud
+
+### v1.0
+- Eerste release: 125 vragen, 7 leerdoelen, flashcards, woordkaartjes, badges

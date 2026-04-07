@@ -478,7 +478,7 @@
         {
           "subdoel_id": "3.1",
           "subdoel_titel": "Verbuiging hic, haec, hoc",
-          "uitleg_tekst": "hic/haec/hoc (deze/dit): ev. nom: hic/haec/hoc, gen: huius, dat: huic, acc: hunc/hanc/hoc, abl: hoc/hac/hoc. Mv. nom: hi/hae/haec, gen: horum/harum/horum, dat: his, acc: hos/has/haec, abl: his.",
+          "uitleg_tekst": "hic/haec/hoc (deze/dit)\n\nEnkelvoud:\nnom: hic / haec / hoc\ngen: huius\ndat: huic\nacc: hunc / hanc / hoc\nabl: hoc / hac / hoc\n\nMeervoud:\nnom: hi / hae / haec\ngen: horum / harum / horum\ndat: his\nacc: hos / has / haec\nabl: his",
           "vragen": [
             {
               "id": 36,
@@ -589,7 +589,7 @@
         {
           "subdoel_id": "3.2",
           "subdoel_titel": "Verbuiging ille, illa, illud",
-          "uitleg_tekst": "ille/illa/illud (die/dat): ev. nom: ille/illa/illud, gen: illius, dat: illi, acc: illum/illam/illud, abl: illo/illa/illo. Mv. nom: illi/illae/illa, gen: illorum/illarum/illorum, dat: illis, acc: illos/illas/illa, abl: illis.",
+          "uitleg_tekst": "ille/illa/illud (die/dat)\n\nEnkelvoud:\nnom: ille / illa / illud\ngen: illius\ndat: illi\nacc: illum / illam / illud\nabl: illo / illa / illo\n\nMeervoud:\nnom: illi / illae / illa\ngen: illorum / illarum / illorum\ndat: illis\nacc: illos / illas / illa\nabl: illis",
           "vragen": [
             {
               "id": 44,
@@ -700,7 +700,7 @@
         {
           "subdoel_id": "3.3",
           "subdoel_titel": "Verbuiging iste, ista, istud",
-          "uitleg_tekst": "iste/ista/istud (die/dat, negatief): ev. nom: iste/ista/istud, gen: istius, dat: isti, acc: istum/istam/istud, abl: isto/ista/isto. Mv. nom: isti/istae/ista, gen: istorum/istarum/istorum, dat: istis, acc: istos/istas/ista, abl: istis. Volgt hetzelfde patroon als ille.",
+          "uitleg_tekst": "iste/ista/istud (die/dat, negatief)\n\nEnkelvoud:\nnom: iste / ista / istud\ngen: istius\ndat: isti\nacc: istum / istam / istud\nabl: isto / ista / isto\n\nMeervoud:\nnom: isti / istae / ista\ngen: istorum / istarum / istorum\ndat: istis\nacc: istos / istas / ista\nabl: istis\n\nVolgt hetzelfde patroon als ille.",
           "vragen": [
             {
               "id": 52,
@@ -785,7 +785,7 @@
         {
           "subdoel_id": "3.4",
           "subdoel_titel": "Verbuiging is, ea, id",
-          "uitleg_tekst": "is/ea/id (die/hij, deze/zij, dit/het): ev. nom: is/ea/id, gen: eius, dat: ei, acc: eum/eam/id, abl: eo/ea/eo. Mv. nom: ei(ii)/eae/ea, gen: eorum/earum/eorum, dat: eis(iis), acc: eos/eas/ea, abl: eis(iis).",
+          "uitleg_tekst": "is/ea/id (die/hij, deze/zij, dit/het)\n\nEnkelvoud:\nnom: is / ea / id\ngen: eius\ndat: ei\nacc: eum / eam / id\nabl: eo / ea / eo\n\nMeervoud:\nnom: ei(ii) / eae / ea\ngen: eorum / earum / eorum\ndat: eis(iis)\nacc: eos / eas / ea\nabl: eis(iis)",
           "vragen": [
             {
               "id": 58,

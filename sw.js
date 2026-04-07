@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'latijn-h16-v1';
+const CACHE_VERSION = 'latijn-h16-v2';
 const ASSETS = [
   './',
   './index.html',

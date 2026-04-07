@@ -375,6 +375,7 @@ h2 { font-size: 1.3rem; color: var(--purple-dark); margin-bottom: 16px; }
 }
 .flashcard-front { background: #fff; font-weight: 700; font-size: 1.05rem; color: var(--purple-dark); }
 .flashcard-back { background: var(--purple); color: #fff; transform: rotateY(180deg); }
+.flashcard-back.flashcard-formatted { text-align: left; font-size: 0.85rem; }
 .flash-nav { display: flex; gap: 12px; justify-content: center; }
 .flash-nav button { flex: 1; max-width: 160px; }
 .flash-empty { text-align: center; padding: 40px 20px; }

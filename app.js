@@ -907,12 +907,29 @@ function showFlashcardScreen() {
 function renderFlashcard() {
   const card = flashcards[flashIndex];
   document.getElementById('flashcard-front').textContent = card.front;
-  document.getElementById('flashcard-back').textContent = card.back;
+  const backEl = document.getElementById('flashcard-back');
+  if (card.back.includes('\n')) {
+    backEl.innerHTML = card.back
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/\n/g, '<br>');
+    backEl.classList.add('flashcard-formatted');
+  } else {
+    backEl.textContent = card.back;
+    backEl.classList.remove('flashcard-formatted');
+  }
   document.getElementById('flashcard').classList.remove('flipped');
   flashFlipped = false;
   document.getElementById('flash-counter').textContent = `${flashIndex + 1} / ${flashcards.length}`;
   document.getElementById('btn-flash-prev').disabled = flashIndex === 0;
   document.getElementById('btn-flash-next').disabled = flashIndex === flashcards.length - 1;
+  // Adjust container height to fit the tallest side
+  requestAnimationFrame(() => {
+    const front = document.getElementById('flashcard-front');
+    const back = document.getElementById('flashcard-back');
+    const h = Math.max(front.scrollHeight, back.scrollHeight);
+    const container = document.getElementById('flashcard');
+    container.style.minHeight = h + 'px';
+  });
 }
 
 function flipCard() {
